@@ -25,13 +25,14 @@
 # 📊 GitHub Stats:
 
   <br/>
-<div align="center" >
+<div>
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=omkarkokil&theme=onedark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=omkarkokil&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=omkarkokil&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarkokil&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarkokil&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/>
 
 ---
@@ -42,8 +43,3 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=omkarkokil&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarkokil&show_icons=true&locale=en&layout=compact" alt="omkarkokil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarkokil&show_icons=true&locale=en" alt="omkarkokil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkokil&" alt="omkarkokil" /></p>
